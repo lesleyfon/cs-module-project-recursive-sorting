@@ -5,6 +5,7 @@ def merge(arrA, arrB):
 
     # Your code here
     # testing
+    # test two
 
     return merged_arr
 
